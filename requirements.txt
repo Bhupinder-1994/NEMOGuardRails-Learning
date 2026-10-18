@@ -1,0 +1,6 @@
+nemoguardrails 
+langchain-nvidia-ai-endpoints 
+python-dotenv 
+nest_asyncio 
+pytest
+ipykernel
